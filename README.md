@@ -15,14 +15,17 @@
 > **Ranxware is only intended for educational purposes, so PLEASE use at your own risk!** Any usage inside public servers can cause consequential actions towards your Roblox account in the games within or in Roblox itself!
 
 ## Supported Games
+click on the game links for the actual targetted game as there are multiples games with the same name which can be confusing
 > none yet lol
 
 ## Upcoming Games
-> click on the game links for the actual targetted game as there are multiples games with the same name which can be confusing
 * [Untitled Tag Game](https://www.roblox.com/games/14044547200/)
 * [Word Bomb](https://www.roblox.com/games/2653064683/)
 * [Pass the Bomb](https://www.roblox.com/games/2961583129/)
+* [Timebomb Duels](https://www.roblox.com/games/11379739543/)
+
+> Murderers Vs Sheriffs section lol
 * [MVS Duels](https://www.roblox.com/games/12355337193/)
 * [Duels Murderers Vs Sherrifs](https://www.roblox.com/games/135856908115931/) *(MVS Duels Knock-off)*
-* [Timebomb Duels](https://www.roblox.com/games/11379739543/)
 * [Murderers Vs Sheriffs](https://www.roblox.com/games/5154858502/)
+* [Murderers Vs Sheriffs 2](https://www.roblox.com/games/13429790955/)
