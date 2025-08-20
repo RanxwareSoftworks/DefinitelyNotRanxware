@@ -25,3 +25,4 @@
 * [MVS Duels](https://www.roblox.com/games/12355337193/)
 * [Duels Murderers Vs Sherrifs](https://www.roblox.com/games/135856908115931/) *(MVS Duels Knock-off)*
 * [Timebomb Duels](https://www.roblox.com/games/11379739543/)
+* [Murderers Vs Sheriffs](https://www.roblox.com/games/5154858502/)
