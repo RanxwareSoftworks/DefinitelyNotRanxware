@@ -8,6 +8,8 @@
 
 > [!important]
 > This script is intended for **PC users only**. I will not hesitate to fix any errors from mobile devices or other executors, hence why it is a `temporary` script hub.
+>
+> The scripts are also obfuscated so that no devs can skid through and make an anti-cheat that I'll have to deal with. So please use a high-end, efficient executor
 
 <hr>
 
@@ -15,14 +17,18 @@
 > **Ranxware is only intended for educational purposes, so PLEASE use at your own risk!** Any usage inside public servers can cause consequential actions towards your Roblox account in the games within or in Roblox itself!
 
 ## Supported Games
-click on the game links for the actual targetted game as there are multiples games with the same name which can be confusing
+Games with currently working scripts
+*click on the game links for the actual targetted game as there are multiples games with the same name which can be confusing*
 > none yet lol
 
 ## Upcoming Games
+Games that are soon to be added
 * [Untitled Tag Game](https://www.roblox.com/games/14044547200/)
 * [Word Bomb](https://www.roblox.com/games/2653064683/)
 * [Pass the Bomb](https://www.roblox.com/games/2961583129/)
 * [Timebomb Duels](https://www.roblox.com/games/11379739543/)
+* [Dingus](https://www.roblox.com/games/13924946576/)
+* [Hide or Die](www.roblox.com/games/18799085098/)
 
 > Murderers Vs Sheriffs section lol
 * [MVS Duels](https://www.roblox.com/games/12355337193/)
